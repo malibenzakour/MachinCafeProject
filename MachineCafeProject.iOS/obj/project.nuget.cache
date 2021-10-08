@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPMcY+zeKTlj8A27Os22sWhR8Pz7et7Kwn98xMFRxsspx+nfgQBLAwPj5sUqxS/mYCGBA1xy0W7b2L5bNvhAag==",
+  "success": false,
+  "projectFilePath": "/Users/malibenzakour/Projects/MachineCafeProject/MachineCafeProject.iOS/MachineCafeProject.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/malibenzakour/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/microsoft.servicefabric/8.1.329/microsoft.servicefabric.8.1.329.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/microsoft.servicefabric.data/5.1.329/microsoft.servicefabric.data.5.1.329.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/microsoft.servicefabric.data.extensions/5.1.329/microsoft.servicefabric.data.extensions.5.1.329.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/microsoft.servicefabric.data.interfaces/5.1.329/microsoft.servicefabric.data.interfaces.5.1.329.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/microsoft.servicefabric.diagnostics.internal/5.1.329/microsoft.servicefabric.diagnostics.internal.5.1.329.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/microsoft.servicefabric.fabrictransport.internal/5.1.329/microsoft.servicefabric.fabrictransport.internal.5.1.329.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/microsoft.servicefabric.services/5.1.329/microsoft.servicefabric.services.5.1.329.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/microsoft.servicefabric.services.remoting/5.1.329/microsoft.servicefabric.services.remoting.5.1.329.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/microsoft.servicefabric.services.wcf/5.1.329/microsoft.servicefabric.services.wcf.5.1.329.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/refit/6.0.94/refit.6.0.94.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/system.data.sqlclient/4.8.3/system.data.sqlclient.4.8.3.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/system.net.http.json/5.0.0/system.net.http.json.5.0.0.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/system.text.encodings.web/5.0.1/system.text.encodings.web.5.0.1.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/system.text.json/5.0.2/system.text.json.5.0.2.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/malibenzakour/.nuget/packages/xamarin.forms/5.0.0.2125/xamarin.forms.5.0.0.2125.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.ServiceFabric.Services.Wcf 5.1.329 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0). Package Microsoft.ServiceFabric.Services.Wcf 5.1.329 supports: net45 (.NETFramework,Version=v4.5)",
+      "libraryId": "Microsoft.ServiceFabric.Services.Wcf",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.ServiceFabric.Services.Wcf 5.1.329 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win. Package Microsoft.ServiceFabric.Services.Wcf 5.1.329 supports: net45 (.NETFramework,Version=v4.5)",
+      "libraryId": "Microsoft.ServiceFabric.Services.Wcf",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.ServiceFabric.Services.Wcf 5.1.329 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x64. Package Microsoft.ServiceFabric.Services.Wcf 5.1.329 supports: net45 (.NETFramework,Version=v4.5)",
+      "libraryId": "Microsoft.ServiceFabric.Services.Wcf",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.ServiceFabric.Services.Wcf 5.1.329 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x86. Package Microsoft.ServiceFabric.Services.Wcf 5.1.329 supports: net45 (.NETFramework,Version=v4.5)",
+      "libraryId": "Microsoft.ServiceFabric.Services.Wcf",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

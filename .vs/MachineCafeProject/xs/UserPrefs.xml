@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{4D3CB61E-2289-4114-89F6-2F8AB757A4CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MachineCafeProject/Service/ServiceMachine.cs">
+    <Files>
+      <File FileName="MachineCafeProject/Views/MenuCategorie.xaml" Line="15" Column="66" />
+      <File FileName="MachineCafeProject/MachineCafeProject.csproj" />
+      <File FileName="MachineCafeProject/Views/ArticleView.xaml" />
+      <File FileName="MachineCafeProject/Views/ArticleView.xaml.cs" Line="21" Column="1" />
+      <File FileName="MachineCafeProject/Views/PayementView.xaml.cs" Line="26" Column="6" />
+      <File FileName="MachineCafeProject/MainPage.xaml" />
+      <File FileName="MachineCafeProject.Android/MachineCafeProject.Android.csproj" />
+      <File FileName="MachineCafeProject/Service/ServiceMachine.cs" Line="55" Column="1" />
+      <File FileName="../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets" />
+      <File FileName="MachineCafeProject.Android/Properties/AndroidManifest.xml" />
+      <File FileName="MachineCafeProject.Android/Properties/AssemblyInfo.cs" />
+      <File FileName="MachineCafeProject/Service/AsyncTosync.cs" Line="9" Column="1" />
+      <File FileName="MachineCafeProject/ViewModel/Article.cs" Line="8" Column="27" />
+      <File FileName="MachineCafeProject/Views/MenuCategorie.xaml.cs" Line="20" Column="71" />
+      <File FileName="MachineCafeProject/Views/MenuPage.xaml.cs" />
+      <File FileName="MachineCafeProject/Views/MenuPage.xaml" />
+      <File FileName="MachineCafeProject/Views/PayementView.xaml" />
+      <File FileName="MachineCafeProject/ViewModel/Historique.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MachineCafeProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MachineCafeProject.Android PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.ItemProperties.MachineCafeProject.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F4936B3E-627A-486D-88F1-8CF166AD59D0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/malibenzakour/Projects/MachineCafeProject/WCFService/Service.cs" relfile="WCFService/Service.cs" line="39" column="1" />
+      <Breakpoint file="/Users/malibenzakour/Projects/MachineCafeProject/WCFService/Service.cs" relfile="WCFService/Service.cs" line="33" column="1" />
+      <Breakpoint file="/Users/malibenzakour/Projects/MachineCafeProject/WCFService/Service.cs" relfile="WCFService/Service.cs" line="31" column="1" />
+      <Breakpoint file="/Users/malibenzakour/Projects/MachineCafeProject/ServiceWCF/Program.cs" relfile="ServiceWCF/Program.cs" line="12" column="1" />
+      <Breakpoint file="/Users/malibenzakour/Projects/MachineCafeProject/ServiceWCF/Service.cs" relfile="ServiceWCF/Service.cs" line="34" column="1" />
+      <Breakpoint file="/Users/malibenzakour/Projects/MachineCafeProject/MachineCafeProject/Service/AsyncTosync.cs" relfile="MachineCafeProject/Service/AsyncTosync.cs" line="11" column="1" />
+      <Breakpoint file="/Users/malibenzakour/Projects/MachineCafeProject/MachineCafeProject/Views/MenuCategorie.xaml.cs" relfile="MachineCafeProject/Views/MenuCategorie.xaml.cs" line="54" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

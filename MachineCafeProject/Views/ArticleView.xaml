@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="MachineCafeProject.Views.ArticleView">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Chocolate" Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Spacing="0" Margin="0,0,0,0">
+            <Label 
+                   HorizontalTextAlignment="Center"
+                   Margin="0,30,0,30"
+                   FontAttributes="Bold"
+                   x:Name="Label"
+                   FontSize="30" />
+            <Image x:Name="Image" WidthRequest="20" HeightRequest="200" />
+            <Label HorizontalTextAlignment="Center"
+                   Text="Prix :" />
+            <Label HorizontalTextAlignment="Center"
+                   x:Name="Prix"/>
+            <Label Text="Sucre" HorizontalTextAlignment="Center"
+                   Margin="0,20,0,20"/>
+            <Stepper   Maximum="10" Minimum="0" HorizontalOptions="Center"  Value="0"
+                ValueChanged="OnSliderValueChanged" />
+            <Label x:Name="slideNumber" HorizontalTextAlignment="Center"
+                   Margin="0,10,0,10" />
+            <Label Text="Utilisation :" />
+            <Picker x:Name="picker"
+                    Title="Gobelet"
+                    TitleColor="Red">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Gobelet</x:String>
+                        <x:String>Mug</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+           <Button Text="Valider"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"
+                Clicked="OnButtonClicked" />
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
